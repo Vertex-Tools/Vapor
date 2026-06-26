@@ -1,0 +1,10 @@
+C:\Users\ciste\RiderProjects\Vapor\Vapor.Core\bin\Debug\netstandard2.0\Vapor.Core.deps.json
+C:\Users\ciste\RiderProjects\Vapor\Vapor.Core\bin\Debug\netstandard2.0\Vapor.Core.dll
+C:\Users\ciste\RiderProjects\Vapor\Vapor.Core\bin\Debug\netstandard2.0\Vapor.Core.pdb
+C:\Users\ciste\RiderProjects\Vapor\Vapor.Core\obj\Debug\netstandard2.0\Vapor.Core.csproj.AssemblyReference.cache
+C:\Users\ciste\RiderProjects\Vapor\Vapor.Core\obj\Debug\netstandard2.0\Vapor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciste\RiderProjects\Vapor\Vapor.Core\obj\Debug\netstandard2.0\Vapor.Core.AssemblyInfoInputs.cache
+C:\Users\ciste\RiderProjects\Vapor\Vapor.Core\obj\Debug\netstandard2.0\Vapor.Core.AssemblyInfo.cs
+C:\Users\ciste\RiderProjects\Vapor\Vapor.Core\obj\Debug\netstandard2.0\Vapor.Core.csproj.CoreCompileInputs.cache
+C:\Users\ciste\RiderProjects\Vapor\Vapor.Core\obj\Debug\netstandard2.0\Vapor.Core.dll
+C:\Users\ciste\RiderProjects\Vapor\Vapor.Core\obj\Debug\netstandard2.0\Vapor.Core.pdb

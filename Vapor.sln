@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vapor.Core", "Vapor.Core\Vapor.Core.csproj", "{B2247BBA-1734-4AAF-9E78-A6EDBF265FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vapor.TestServer", "Vapor.TestServer\Vapor.TestServer.csproj", "{4ED15DD6-7270-4089-83AC-DE2B88E39F8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vapor.TestClient", "Vapor.TestClient\Vapor.TestClient.csproj", "{F5E92101-53BA-404F-9781-9D02D39AAF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2247BBA-1734-4AAF-9E78-A6EDBF265FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2247BBA-1734-4AAF-9E78-A6EDBF265FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2247BBA-1734-4AAF-9E78-A6EDBF265FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2247BBA-1734-4AAF-9E78-A6EDBF265FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED15DD6-7270-4089-83AC-DE2B88E39F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED15DD6-7270-4089-83AC-DE2B88E39F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED15DD6-7270-4089-83AC-DE2B88E39F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED15DD6-7270-4089-83AC-DE2B88E39F8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E92101-53BA-404F-9781-9D02D39AAF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E92101-53BA-404F-9781-9D02D39AAF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E92101-53BA-404F-9781-9D02D39AAF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E92101-53BA-404F-9781-9D02D39AAF33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

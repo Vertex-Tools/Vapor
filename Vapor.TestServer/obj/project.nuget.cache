@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zRTkXtYzUVA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ciste\\RiderProjects\\Vapor\\Vapor.TestServer\\Vapor.TestServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ciste\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
