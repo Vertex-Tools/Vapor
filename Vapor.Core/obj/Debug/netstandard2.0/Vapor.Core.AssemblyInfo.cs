@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute(@"A high-performance, ultra-low latency Full-Duplex IPC framework built on Shared Memory (Memory-Mapped Files) and native OS synchronization. Designed for zero-allocation cross-process communication with 0% CPU overhead at rest. Perfect for heavy server-side integrations, external consoles, and local microservices.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0-preview")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0-preview+d7cd36c9615adc8d55d74440d66a608068444ecb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vapor.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vapor.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -368,7 +368,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.0-preview",
     "restore": {
       "projectUniqueName": "C:\\Users\\ciste\\RiderProjects\\Vapor\\Vapor.Core\\Vapor.Core.csproj",
       "projectName": "Vapor.Core",

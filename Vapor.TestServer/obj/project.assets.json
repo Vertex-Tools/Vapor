@@ -11,7 +11,7 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "Vapor.Core/1.0.0": {
+      "Vapor.Core/1.0.0-preview": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -50,7 +50,7 @@
         "version.txt"
       ]
     },
-    "Vapor.Core/1.0.0": {
+    "Vapor.Core/1.0.0-preview": {
       "type": "project",
       "path": "../Vapor.Core/Vapor.Core.csproj",
       "msbuildProject": "../Vapor.Core/Vapor.Core.csproj"
@@ -58,7 +58,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Vapor.Core >= 1.0.0"
+      "Vapor.Core >= 1.0.0-preview"
     ]
   },
   "packageFolders": {
