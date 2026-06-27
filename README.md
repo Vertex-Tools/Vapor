@@ -1,4 +1,4 @@
-# <img width="64" height="64" alt="Vapor" src="https://github.com/user-attachments/assets/ff6e149d-cb88-4806-8c28-5f047728281e" /> Vapor.Core
+# <img width="64" height="64" alt="Vapor" src="https://github.com/user-attachments/assets/ff6e149d-cb88-4806-8c28-5f047728281e" /> Vapor
 
 [![NuGet Version](https://img.shields.io/badge/nuget-v1.0.0-blue.svg)](https://www.nuget.org/)
 [![Framework](https://img.shields.io/badge/.NET%20Standard-2.0-green.svg)](https://learn.microsoft.com/en-us/dotnet/standard/net-standard)
