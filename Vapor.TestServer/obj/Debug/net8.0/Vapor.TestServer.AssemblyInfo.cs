@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vapor.TestServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7cd36c9615adc8d55d74440d66a608068444ecb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vapor.TestServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vapor.TestServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
